@@ -1,3 +1,2 @@
 # Want to get in touch?
-
-Feel free to send me a message!
+ Will reply within 3 business days, Feel free to send me a message

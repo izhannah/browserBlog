@@ -1,3 +1,9 @@
-Philosophy 
-To take passion and our knowledge into our own hands and design for everyone. To change and shape the world with my designs. 
+# About me
+To take my passion and knowledge and design for everyone. To create meaningful designs that can shape how people view design. 
+# Skills 
+UX Design and UI Design 
+# Applications 
+Figma, Illustrator, InDesign, Adobe XD, and Photoshop
+
+
 

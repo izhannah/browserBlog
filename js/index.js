@@ -7,7 +7,7 @@ import aItems from "../items/index.js";
 class Page {
     constructor(){
         this.sName = "Hannah Lee";
-        this.sUrlToEmailer = "https://immense-waters-10591.herokuapp.com/send/";
+        this.sUrlToEmailer = "https://pure-ocean-89490.herokuapp.com/send/";
         const sBase = document.location.pathname;
         if(sBase[sBase.length - 1] == "/"){
             this.sBase = sBase.substr(0, sBase.length -1);
@@ -151,7 +151,7 @@ class Nav extends Page {
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">Portfolio of ${this.sName}</a>
+                <a class="navbar-brand" href="#">   <img src="/img/hannahlee.png" alt="hannah"width="35" height="35"> Portfolio of ${this.sName}</a>
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">

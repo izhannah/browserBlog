@@ -1,1 +1,5 @@
-This is an article about an experience from your past.
+# Scribblenotes 
+In this project our mission was to create an app that removed barriers to learning. We designed an accessible note taking app made for users from all writing and studying styles. It offers more features than widely known learning and note taking apps such as Quizlet and One Note. We combined textbook, quizzes and note-taking methods into this app.
+
+# My Angle 
+Things I learned from this project was that everyone had different studying and writing styles. My group and I had the chance to implement different writing and studying styles into this app. Many other note taking apps and other studying apps were missing the function to highlight, add notes, audible notes and etc. I believe our app will significantly help users achieve their desired grade, keep their notes organized and help them stay on top of their work with a calendar with reminders.  
