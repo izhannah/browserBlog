@@ -199,16 +199,3 @@ label {
     text-align: center
 }
 
-input {
-    -webkit-writing-mode: horizontal-tb !important;
-    text-rendering: auto;
-    color: -internal-light-dark(#004272, #004272);
-    letter-spacing: normal;
-    word-spacing: normal;
-    text-transform: none;
-    text-indent: 0px;
-    text-shadow: none;
-    color: #004272;
-    text-align: center
-}
-
