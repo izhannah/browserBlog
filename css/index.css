@@ -57,11 +57,11 @@ a.left-button, a.right-button {
     padding-right: 15px;
     padding-left: 15px;
     overflow-x: visible;
-    background-color: #CC527A;
+    background-color: black;
 }
 
 .navbar-inverse {
-    background-color: #CC527A ;
+    background-color: black ;
     border-color: #CC527A ;
 }
 
@@ -75,8 +75,8 @@ a.left-button, a.right-button {
 
 .btn-primary {
     color: #fff;
-    background-color: #E8175D;
-    border-color: #E8175D;
+    background-color: black;
+    border-color: black;
     font-style: Montserrat;
 }
 
@@ -96,7 +96,7 @@ footer {
     padding: 15px 15px;
     font-size: 18px;
     line-height: 20px;
-    background-color: #CC527A ;
+    background-color: black ;
     border-color: #CC527A ;
     color: #FFFFFF;
 }
@@ -104,7 +104,8 @@ footer {
 h1, .h1 {
     font-size: 50px;
     font-style: Montserrat;
-    color: #E8175D;
+    color: #FFFFFF;
+    text-decoration: underline;
     text-align: center
 }
 
